@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+ 
+ 
+
 
 # C extensions
 *.so
@@ -128,6 +131,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+*.csv
 .env
 .venv
 env/
@@ -172,3 +176,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+ 
