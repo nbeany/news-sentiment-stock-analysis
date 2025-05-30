@@ -4,3 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 jupyter
+nltk
+requests 
+vaderSentiment
+
