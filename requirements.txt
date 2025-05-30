@@ -1,0 +1,10 @@
+vaderSentiment
+numpy
+pandas
+matplotlib
+scikit-learn
+requests
+beautifulsoup4
+nltk
+nltk_data
+# For Jupyter Notebook support
